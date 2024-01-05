@@ -1,0 +1,4 @@
+C:\Users\Ivan\source\repos\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.csproj.CoreCompileInputs.cache
